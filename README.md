@@ -1,3 +1,5 @@
+# ☂️Umbrella Wiper
+
 Actually This isn't a tech project.
 I'm participating in an event tomorrow, so generally u have to present new ideas or unique ideas overthere.
 So , I have this idea from long time. Which is nothing but "Umbrella-Wiper".
@@ -40,3 +42,7 @@ We can fold this wiper,
 and when we want to clean,
 You can just put that and just twist it so water falls off.
 And the rods are extensible and foldable, So you can use for any type of umbrella.
+
+📬 Contact
+LinkedIn: www.linkedin.com/in/akanksha-kunduru-75b066380
+Email: kunduruakanksha@gmail.com
