@@ -43,6 +43,9 @@ and when we want to clean,
 You can just put that and just twist it so water falls off.
 And the rods are extensible and foldable, So you can use for any type of umbrella.
 
+<img width="1536" height="1024" alt="ChatGPT Image May 5, 2026, 09_38_22 PM" src="https://github.com/user-attachments/assets/1eef2ba1-8186-4849-9404-3e07cc7ba02e" />
+
+
 📬 Contact
 LinkedIn: www.linkedin.com/in/akanksha-kunduru-75b066380
 Email: kunduruakanksha@gmail.com
